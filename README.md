@@ -1,4 +1,4 @@
-# smart-agriculture-monitoring-system
+
 # 🌱 Smart Agriculture Monitoring System
 
 ## 📌 Project Overview
